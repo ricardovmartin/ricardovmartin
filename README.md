@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ricardovmartin
-- 👀 I’m interested in disaster robotics, autonomous driving, computer vision.
-- 🌱 I’m currently learning tensorflow, python.
+- 👀 I’m interested in disaster robotics, autonomous driving and Digital Twins in Industry 4.0.
+- 🌱 I’m currently learning tensorflow, python, keras, ROS2 and Digital Twin platforms and connectivity to Cyber-phisical systems.
 - 💞️ I’m looking to collaborate on robotics.
 - 📫 Reach me at rvmartin@uma.es
 
